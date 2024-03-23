@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">1) Clone or download the repository to your local machine.<br>2)Explore the existing bike purchase data integrated with pivot tables.<br>3) Navigate through the dashboard to visualize key metrics and trends.<br>4) Utilize the provided analytics tools for in-depth analysis and forecasting.<br>5) Customize the templates and tools as needed to fit your specific requirements.<br>6) Refer to the documentation for detailed instructions and tips.</p>
+<p align="left">1) <a href="https://github.com/Php93/Analytics-with-Excel/blob/main/Bike%20Purchase%20Analysis.xlsx">Download File</a><br>2)Explore the existing bike purchase data integrated with pivot tables.<br>3) Navigate through the dashboard to visualize key metrics and trends.<br>4) Utilize the provided analytics tools for in-depth analysis and forecasting.<br>5) Customize the templates and tools as needed to fit your specific requirements.<br>6) Refer to the documentation for detailed instructions and tips.</p>
 
 &nbsp;
 
@@ -32,6 +32,6 @@
 
 ###
 
-<p align="left">This project is licensed under the MIT License - see the LICENSE file for details.</p>
+<p align="left">This project is licensed under the MIT License - see the <a href="https://github.com/Php93/Analytics-with-Excel/blob/main/LICENSE">LICENSE</a> file for details.</p>
 
 ###
