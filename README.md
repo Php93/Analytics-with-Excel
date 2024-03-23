@@ -8,7 +8,7 @@
 
 <p align="left">This repository contains Excel templates and tools for analyzing bike purchase data. It includes pre-existing bike data integrated with pivot tables and a comprehensive dashboard featuring various charts and visualizations. Whether you're a bike shop owner, a marketer, or simply someone interested in understanding bike purchasing trends, these Excel resources will help you gain valuable insights into your data.</p>
 
-###
+&nbsp;
 
 <h2 align="left">Features</h2>
 
